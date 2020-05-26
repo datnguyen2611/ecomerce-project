@@ -11,6 +11,7 @@
 @import 'base/utility';
 
 // Components
+@import "components/alert";
 @import 'components/breadcrumbs';
 @import 'components/buttons';
 @import 'components/section-description';
@@ -24,7 +25,7 @@
 
 // Pages
 @import 'pages/landing-page';
-@import 'pages/products';
+@import 'pages/shop';
 @import 'pages/product';
 @import 'pages/cart';
 @import 'pages/checkout';
